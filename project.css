@@ -558,7 +558,7 @@
       height: 100px;
       margin-top: 34px;
       text-align: center;
-      font-size: medium;
+      font-size: small;
       font-family: 'Anton', sans-serif;
       transition: 1s ease-in-out;
       color: white;
@@ -572,7 +572,7 @@
   }
 
   .address {
-      margin-top: 21px;
+      margin-top: 18px;
   }
 
   .footic {
@@ -724,4 +724,7 @@
      font-family: 'Anton', sans-serif;
      position: absolute;
 left: 61px;
+}
+.fa-solid{
+    margin-top: 10px;
 }
